@@ -14,4 +14,51 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="coloresource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="datastruct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="imageresource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="processresource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="toolibrary.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vector2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="winpaint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="shop.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Seasonsland.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="back.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

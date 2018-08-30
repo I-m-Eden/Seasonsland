@@ -1,0 +1,84 @@
+14
+
+root 0
+NULL
+0 0 0
+0
+
+velocity 1
+Run faster
+0.15 10 0
+1
+0
+
+velocity 2
+Run much faster
+0.2 18 3
+1
+1
+
+multipleshoot 3
+Shoot twice
+1 8 8 
+1
+0
+
+multipleshoot 4
+Shoot the third time
+1 10 10
+1
+3
+
+velocitybullet 5
+Bullet run faster
+2 6 4
+1
+0
+
+velocity 6
+RUN FASTERER
+0.2 24 8
+1
+2
+
+velocitybullet 7
+Bullet much faster
+2 10 8
+1
+5
+
+velocityexploit 8
+Exploit faster
+0.008 9 7
+1
+0
+
+velocityexploit 9
+Exploit much faster
+0.012 15 10
+1
+8
+
+velocityreload 10
+Reload faster
+-20 8 5
+1
+0
+
+velocityreload 11
+Reload much faster
+-10 15 8
+2
+5 10
+
+rangebullet 12
+Bullet range bigger
+100 6 6
+1
+0
+
+velocityreload 13
+RELOAD FASTERER
+-8 20 10
+1
+11
