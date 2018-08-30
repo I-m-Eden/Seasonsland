@@ -1598,8 +1598,8 @@ int WINAPI WinMain(
 	int nCmdshow
 ) {
 
-	if (checkprev("Alive"))return 0;
-	initwin(hInstance, 800, 600, "Alive");
+	if (checkprev("SeasonsLand"))return 0;
+	initwin(hInstance, 800, 600, "SeasonsLand");
 	showwin(nCmdshow);
 
 	srand((UINT)time(0));
